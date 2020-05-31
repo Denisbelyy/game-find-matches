@@ -1,4 +1,4 @@
 # game "Find matches"
 
 ## Play
-(https://denisbelyy.github.io/game-find-matches/#/)
+https://denisbelyy.github.io/game-find-matches/#/
