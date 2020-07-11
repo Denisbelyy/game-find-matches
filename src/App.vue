@@ -46,6 +46,9 @@
   font-size: 1rem;
   border-radius: 0.25rem;
   border: 1px solid black;
+  max-width: 100%;
+  width: 100px;
+  box-sizing: border-box;
 }
 #nav {
   padding: 30px;
